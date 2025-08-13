@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c-rohan" alt="c-rohan" /></a> </p>
 
-- 🔭 I’m currently working on **Ros2**
+- 🔭 I’m currently working on **ROS2**
 
-- 🌱 I’m currently learning **Ros2, Rviz, URDF, Gazebo**
+- 🌱 I’m currently learning **ROO2, Rviz, URDF, Gazebo**
 
 - 👯 I’m looking to collaborate on **3D Design, Robotics**
 
