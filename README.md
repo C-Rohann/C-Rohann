@@ -1,30 +1,85 @@
-<h1 align="center">Hi 👋, I'm Rohan Chavan</h1>
-<h3 align="center">A passionate Automation Robotics Engineer from India</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#00bfff">Rohan Chavan</span></h1>
+<h3 align="center">🤖 Automation & Robotics Engineer | ROS2 Enthusiast | 3D Design Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=c-rohan&label=Profile%20views&color=0e75b6&style=flat" alt="c-rohan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c-rohan" alt="c-rohan" /></a> </p>
-
-- 🔭 I’m currently working on **ROS2**
-
-- 🌱 I’m currently learning **ROO2, Rviz, URDF, Gazebo**
-
-- 👯 I’m looking to collaborate on **3D Design, Robotics**
-
-- 🤝 I’m looking for help with **ROS2 Hardware**
-
-- 💬 Ask me about **3D-Design 3D-Modeling, ROS2**
-
-- 📫 How to reach me **rohanchavan4101@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohan1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan1406" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=c-rohan&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=c-rohan&theme=radical&no-frame=true&margin-w=5&row=1" alt="Trophies"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-rohan&show_icons=true&locale=en&layout=compact" alt="c-rohan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-rohan&show_icons=true&locale=en" alt="c-rohan" /></p>
+### 🚀 About Me  
+- 🔭 **Currently working on:** `ROS2`  
+- 🌱 **Learning:** `Rviz`, `URDF`, `Gazebo`  
+- 🤝 **Looking to collaborate on:** Robotics & 3D Design projects  
+- 💬 **Ask me about:** ROS2, 3D-Modeling, Computer Vision  
+- 📫 **Reach me at:** rohanchavan4101@gmail.com  
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="https://linkedin.com/in/rohan1406" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rohanchavan4101@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠 Languages & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,html,java,matlab,mysql,opencv,python,tensorflow,pandas,sklearn&perline=7"/>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c-rohan&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-rohan&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-rohan&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🏆 Featured Projects  
+🚧 *(Add your best project repos here with badges & short descriptions)* 🚧  
+Example:  
+- [🔗 ROS2 TurtleBot Simulation](https://github.com/c-rohan/ros2-turtlebot) – Built a TurtleBot simulation in Gazebo using ROS2 Foxy.  
+- [🔗 Automated Quality Inspection](https://github.com/c-rohan/quality-inspection) – CV-based defect detection system using OpenCV & Python.  
+
+---
+
+### 🎮 Play a Game on My Profile  
+<p align="center">
+  <img src="https://github.com/c-rohan/c-rohan/blob/output/github-contribution-grid-snake.svg" alt="snake game"/>
+</p>
+
+<p align="center">
+  <a href="https://tetris.com/play-tetris" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Tetris-%23FF5733.svg?style=for-the-badge&logo=game&logoColor=white"/>
+  </a>
+  <a href="https://chromedino.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Chrome%20Dino-%2300FF00.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🎯 Fun Fact  
+> “Robots don’t get tired... but I still need coffee to debug them ☕🤖”  
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**  
+
