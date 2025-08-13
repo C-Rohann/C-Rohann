@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-rohan&label=Profile%20views&color=0e75b6&style=flat" alt="c-rohan" /> </p>
 
-- 🔭 I’m currently working on **Ros2Humble**
+- 🔭 I’m currently working on **Ros2**
 
-- 🌱 I’m currently learning **Ros2Humble, Rviz, Gazebo**
+- 🌱 I’m currently learning **Ros2, Rviz, URDF, Gazebo**
 
 - 👯 I’m looking to collaborate on **3D Design**
 
